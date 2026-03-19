@@ -1,0 +1,1 @@
+{\n  "manifest_version": 3,\n  "name": "My Chrome Extension",\n  "version": "1.0",\n  "description": "A simple Chrome extension.",\n  "permissions": [\n    "storage",\n    "tabs"\n  ],\n  "action": {\n    "default_popup": "popup.html",\n    "default_icon": "icon.png"\n  }\n}
