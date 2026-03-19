@@ -1,0 +1,12 @@
+{
+  "name": "ai-portal-automation",
+  "version": "1.0.0",
+  "main": "src/server/index.js",
+  "scripts": {
+    "start": "node dist/server/index.js",
+    "build": "tsc",
+    "dev": "ts-node src/server/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {"typescript": "^4.0.0", "ts-node": "^10.0.0"}
+}
